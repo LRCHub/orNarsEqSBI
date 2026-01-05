@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "エロ",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-01-05T15:11:01.367993Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エロ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/01_エロ_クリープハイプ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エロ",
+      "artist": "Creep Hyp",
+      "has_synced": false,
+      "path": "select/02_エロ_Creep_Hyp.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エロ - Ero",
+      "artist": "CreepHyp",
+      "has_synced": false,
+      "path": "select/03_エロ_-_Ero_CreepHyp.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "【Ado】夜のピエロ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_【Ado】夜のピエロ_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夜のピエロ",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/05_夜のピエロ_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エロ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_エロ_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "エロ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_02_エロ_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "エロ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_03_エロ_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "エロ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_04_エロ_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "エロ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_05_エロ_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "エロ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_06_エロ_クリープハイプ.txt"
+    }
+  ]
+}
